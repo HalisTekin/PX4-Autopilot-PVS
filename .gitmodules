@@ -93,3 +93,5 @@
 	url = https://github.com/halistekin/NuttX-PVS.git
 [submodule "PX4/NuttX"]
 	url = https://github.com/HalisTekin/NuttX-PVS.git
+[submodule "platforms/nuttx/NuttX"]
+	url = https://github.com/HalisTekin/NuttX-PVS.git
