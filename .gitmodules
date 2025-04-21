@@ -89,3 +89,7 @@
 [submodule "src/drivers/uavcan/libdronecan/libuavcan/dsdl_compiler/pydronecan"]
 	path = src/drivers/uavcan/libdronecan/libuavcan/dsdl_compiler/pydronecan
 	url = https://github.com/dronecan/pydronecan
+[submodule "src/modules/nuttx"]
+	url = https://github.com/halistekin/NuttX-PVS.git
+[submodule "PX4/NuttX"]
+	url = https://github.com/HalisTekin/NuttX-PVS.git
